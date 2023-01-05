@@ -23,15 +23,6 @@ npm run start
 ```
 ## END POINTS
 
-* http://api/wallet - GET METHOD  - list all wallets.
-* http://api/wallet/:id - GET METHOD  - get single user wallet.
-* http://api/wallet  - POST METHOD - create new wallet.
-* http://api/withdraw - POST METHOD  -  withdraw funds.
-* http://api/deposit - POST METHOD - fund wallet
-* http://api/checkbalance/:id -  GET  METHOD - check wallet balance
-* http://api/transferfund  - POST METHOD  -  make transfer to another wallet
-* http://api/transaction  - GET METHOD  - list all transactions being made
-* http://api/transaction/:id  -  GET METHOD - get single wallet transaction
 
 
 * WELL EXPLAINED E-R Diagram   URL (https://dbdesigner.page.link/mWBFE7UhTQqqRnfi7)
