@@ -1,4 +1,3 @@
-# creditdemo
 
 
 
@@ -7,6 +6,10 @@ A simple wallet system API using Express.JS with Typescript integration.
 
 ## Built With
 Node.JS, Express, JavaScript
+
+## QUERY LANGUAGE
+* knex
+* prisma
 
 ## Getting Ready
 
@@ -44,5 +47,4 @@ npm run start
 - Deposit
 - Withdraw
 - Transaction History
-
 
